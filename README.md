@@ -1,2 +1,2 @@
 # SCA-DevOps-Engineering
-A collaborative space for DevOps engineering tasks as part of the SCA Menteeship program
+This repo contains my personal task submissions and projects for **SCA DevOps Menteeship Program**
